@@ -1,5 +1,4 @@
 # Python Program that helps translate Speech to Text
-
 import speech_recognition
 
 # The Recognizer is initialized.
